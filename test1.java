@@ -1,3 +1,8 @@
+//Author: Jagathratchagan.p
+//Title: basic hello world program
+//quiz : To print the string,int,float,long,boolean
+
+
 class test1
 {
 public static void main(String[]args)
